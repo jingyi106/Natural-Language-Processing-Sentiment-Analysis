@@ -5,7 +5,7 @@ This project aims at using natural language processing techniques to understand 
 Dataset is provided as Twitter-sentiment-self-drive-DFE.csv
 
 ## Code
-Code is provided as sentiment analysis-self driving car.ipynb
+Code is provided as sentiment analysis.ipynb
 
 ## Tasks preformed in the code 
 1) Conducted exploratory data analysis: summary statistics and histograms on the numeric fields; dealing with null values and abnormal values
